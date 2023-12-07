@@ -2,4 +2,4 @@
 host=review.calyxos.org
 port=29418
 project=CalyxOS/device_google_shusky-sepolicy
-defaultbranch=android14-d1
+defaultbranch=android14
